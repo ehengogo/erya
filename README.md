@@ -8,9 +8,12 @@
 题库答案来自 http://erya.hang.im/
 感谢赵同学。
 
-为赵同学捐款
 
-![](http://erya.hang.im/static/alipay.png)
+
+
+**为 赵 同 学 捐 款** ||||||||||||| **为  我 捐 款**
+---
+![](http://erya.hang.im/static/alipay.png) ![](http://top0004.qiniudn.com/zhifubao.jpg) 
 
 
 **脚本如下：**
@@ -42,8 +45,8 @@
 
 ![](http://i2.tietuku.com/2122b90dacd5dd8e.png)
 
-- 稍等一两秒，然后点击视频的**继续学习**/**立即学习**,切换视频线路，即可。
-- 
+**稍等一两秒**，然后点击视频的**继续学习**/**立即学习**,切换视频线路，即可。
+
 
 **更新**
 
